@@ -5,6 +5,7 @@ from myuser.models import User as user
 from company.models import *
 from worker.models import *
 
+#test get
 
 #information storing part
 class export_store(models.Model):
